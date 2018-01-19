@@ -8,7 +8,8 @@ public class Hw1Test {
     @org.junit.Test
     public void testNext() {
         Hw1<Integer> actual = new Hw1<Integer>().next();
-        Hw1<Integer> expected = null;
+        Hw1<Integer> expected;
+        expected = null;
         assertEquals(expected, actual);
     }
 
