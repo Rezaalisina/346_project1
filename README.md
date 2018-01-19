@@ -1,4 +1,4 @@
 # 346_project
-first I wrote Linkedlist library for given interface with the several method.
-wrote Hw1 generic class for implementing on LinkedList containing  several
-method. Then Hw1Test for the LinkedList. for each method couple test.``        
+First I wrote Linkedlist class for given interface with the several method.
+I wrote the Hw1 generic class for implementing on LinkedList interface containing  several
+method. Then I wrote Hw1Test for the LinkedList. I made unit tetst for each method in the Hw1 class.        
